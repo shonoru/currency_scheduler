@@ -1,0 +1,11 @@
+* currency_scheduler
+- get currency value everyday from http://www.cbr.ru/scripts/XML_daily.asp
+- deployed on Heroku
+
+TODO
+- api interface
+- plugin
+
+FIXME replace rakefile name to scheduler
+
+ENV: Ruby on Rails, Heroku, PostgreSQL, Rake, Scheduler
