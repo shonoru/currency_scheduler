@@ -1,5 +1,6 @@
-* currency_scheduler
-- get currency value everyday from http://www.cbr.ru/scripts/XML_daily.asp
+h1. currency_scheduler
+
+- get currency value everyday from "http://www.cbr.ru/scripts/XML_daily.asp":http://www.cbr.ru/scripts/XML_daily.asp
 - deployed on Heroku
 
 TODO
