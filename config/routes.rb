@@ -1,4 +1,7 @@
 CurrencyScheduler::Application.routes.draw do
+  root :to => 'home#index'
+  match 'get_currencies' => 'home#get_currencies'
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
